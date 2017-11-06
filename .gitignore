@@ -2,4 +2,5 @@
 *~
 *.zip
 *.tar*
+*.rar
 .vscode/launch.json
