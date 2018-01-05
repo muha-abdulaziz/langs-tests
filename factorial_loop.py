@@ -1,4 +1,5 @@
 # 9! =  9 * 8 * 7 ..... 1 = 
+# 3! = 3 * 2 * 1 = ?
 # 1! = 1
 
 def factorial(num):
@@ -10,7 +11,7 @@ def factorial(num):
             res *= i
         return res
 
-print(factorial(0))
+# print(factorial(0))
 print(factorial(1))
 print(factorial(2))
 print(factorial(3))
