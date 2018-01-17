@@ -10,6 +10,6 @@ __pycache__/
 .vscode/
 
 # Archive and  compression files
-.tar*
-.zip
-.rar
+*.tar
+*.zip
+*.rar
