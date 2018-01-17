@@ -1,6 +1,15 @@
-*.pyc
-*~
-*.zip
-*.tar*
-*.rar
-.vscode/launch.json
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# visual studio code files
+.vscode/
+
+# Archive and  compression files
+.tar*
+.zip
+.rar
